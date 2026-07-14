@@ -1,0 +1,5 @@
+[project]
+name = "industrial-ai-process-analyst"
+version = "0.1.0"
+description = "Industrial AI Process Analyst"
+requires-python = ">=3.12"
