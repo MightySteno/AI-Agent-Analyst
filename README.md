@@ -14,3 +14,4 @@ Langfristige Ziele:
 - LLM-gestützte Analyse
 - Automatische Berichterstellung
 - Dashboard
+- weitere Ziele
